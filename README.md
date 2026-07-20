@@ -169,29 +169,13 @@ Protection des logiciels et simplification de la gestion des licences via une AP
 
 ### 05 - Autres projets
 
-**XPlane-MCP-AI-Connector** - `MCP` `IA Agentique` `LLM`
-Connecteur open-source basé sur le Model Context Protocol reliant le
-simulateur X-Plane 12 à n'importe quel LLM local, pour un pilotage en
-langage naturel en temps réel.
-→ [github.com/arnoweb/XPlane-MCP-AI-Connector](https://github.com/arnoweb/XPlane-MCP-AI-Connector)
-→ Architecture : [Architecture technique](https://github.com/arnoweb/XPlane-MCP-AI-Connector/document-architecture.html)
-
-**Golf & Performance** - `Python` `Machine Learning` `Data Analysis`
-Étude des facteurs de performance au golf par corrélations statistiques et
-Machine Learning (projet antérieur).
-
-**Architecture Web universelle sans API (Laravel + React SSR)** - `Laravel 12` `Inertia.js` `React SSR`
-Architecture full-stack unifiée supprimant la duplication de la logique
-métier entre back et front, tout en conservant les gains de performance et
-de SEO du rendu serveur.
-→ Code : [github.com/arnoweb/kitstarter-laravel-ssr-noapi](https://github.com/arnoweb/kitstarter-laravel-ssr-noapi)
-→ Architecture : [Architecture technique](https://github.com/arnoweb/kitstarter-laravel-ssr-noapi/document-architecture.html)
-
-Explorations techniques complémentaires  
-
-- machine-learning-linearreg-kneighbours-kfold - régression linéaire, k-NN,
-validation croisée (k-fold) sur données Airbnb.
-- googlecoral - scripts d'inférence ML embarquée sur Coral Dev Board (Edge TPU).
+| Projet | Description | Stack | Lien |
+|---|---|---|---|
+| XPlane-MCP-AI-Connector | Connecteur open-source basé sur le Model Context Protocol reliant le simulateur X-Plane 12 à n'importe quel LLM local, pour un pilotage en langage naturel en temps réel. | `MCP` `IA Agentique` `LLM` | [Code](https://github.com/arnoweb/XPlane-MCP-AI-Connector) · [Architecture technique](https://github.com/arnoweb/XPlane-MCP-AI-Connector/document-architecture.html) |
+| Architecture Web universelle sans API | Architecture full-stack unifiée supprimant la duplication de la logique métier entre back et front, tout en conservant les gains de performance et de SEO du rendu serveur. | `Laravel 12` `Inertia.js` `React SSR` | [Code](https://github.com/arnoweb/kitstarter-laravel-ssr-noapi) · [Architecture technique](https://github.com/arnoweb/kitstarter-laravel-ssr-noapi/document-architecture.html) |
+| Golf & Performance | Étude des facteurs de performance au golf par corrélations statistiques et Machine Learning (projet antérieur). | `Python` `Machine Learning` `Data Analysis` | — |
+| machine-learning-linearreg-kneighbours-kfold | Régression linéaire, k-NN, validation croisée (k-fold) sur données Airbnb. | `Python` `Scikit-learn` | [Code](https://github.com/arnoweb/machine-learning-linearreg-kneighbours-kfold) |
+| googlecoral | Scripts d'inférence ML embarquée sur Coral Dev Board (Edge TPU). | `Python` `Edge AI` | [Code](https://github.com/arnoweb/googlecoral) |
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
@@ -199,49 +183,42 @@ validation croisée (k-fold) sur données Airbnb.
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-```
-2024–2026   Projets IA générative, ML & IA agentique
-            RAG · fine-tuning LLM · systèmes de recommandation · agents IA
+**2024–2026 — Projets IA générative, ML & IA agentique**
+RAG · fine-tuning LLM · systèmes de recommandation · agents IA
 
-2018–2025   Directeur de projet technique digital - Mazarine
-            Direction technique & MOE multi-comptes
-            Opéra national de Paris (800 k€/an) · Accor-Thalassa (500 k€)
-            Accor-LVMH (350 k€)
+**2018–2025 — Directeur de projet technique digital, Mazarine**
+Direction technique & MOE multi-comptes · Opéra national de Paris (800 k€/an) · Accor-Thalassa (500 k€) · Accor-LVMH (350 k€)
 
-2015–2017   Chef de projet technique digital - Mazarine
-            Sites Maisons de Luxe (Groupe OTB - Maison Margiela, Bottega Veneta)
+**2015–2017 — Chef de projet technique digital, Mazarine**
+Sites Maisons de Luxe (Groupe OTB - Maison Margiela, Bottega Veneta)
 
-2012–2015   Lead développeur backend - WillUP
-            Billetterie, e-commerce, streaming · architecture APIs (Apigee)
+**2012–2015 — Lead développeur backend, WillUP**
+Billetterie, e-commerce, streaming · architecture APIs (Apigee)
 
-2005–2012   Développeur full stack - Zone Rouge
-            Live scoring temps réel sport automobile (flux XML/SOAP)
-```
+**2005–2012 — Développeur full stack, Zone Rouge**
+Live scoring temps réel sport automobile (flux XML/SOAP)
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
-│  Stack --list                                                            │
+│  Compétences techniques                                                  │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-```
-Systèmes IA (IA générative, Machine Learning & automatisation)
-  Python · PyTorch · Scikit-learn · FastAPI · LangChain
-  Hugging Face · Vector DB (Pinecone) · n8n · MCP (Model Context Protocol)
+**Systèmes IA (IA générative, Machine Learning & automatisation)**
+Python · PyTorch · Scikit-learn · FastAPI · LangChain · Hugging Face · Vector DB (Pinecone) · n8n · MCP (Model Context Protocol)
 
-Développement assisté par IA générative
-  Claude Code · Cursor · Codex · Warp · LM Studio
+**Développement assisté par IA générative**
+Claude Code · Cursor · Codex · Warp · LM Studio
 
-Architecture & backend
-  PHP · Laravel · WordPress · Drupal · React · Node.js · SOA · API / APIM (Apigee)
+**Architecture & backend**
+PHP · Laravel · WordPress · Drupal · React · Node.js · SOA · API / APIM (Apigee)
 
-Cloud & DevOps
-  Docker · AWS · DigitalOcean · Claranet · Linux · Git · CI/CD · load testing
+**Cloud & DevOps**
+Docker · AWS · DigitalOcean · Claranet · Linux · Git · CI/CD · load testing
 
-Pilotage de projet
-  Agile / Scrum · Jira · Confluence · Miro · Notion · Smartsheet
+**Pilotage de projet**
+Agile / Scrum · Jira · Confluence · Miro · Notion · Smartsheet
 
-Langues
-  Anglais (courant, pro) · Espagnol (intermédiaire)
-```
+**Langues**
+Anglais (courant, pro) · Espagnol (intermédiaire)
 
