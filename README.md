@@ -62,8 +62,8 @@ PME · ETI · grands comptes · agences digitales · e-commerce · éditeurs Saa
 - migration de données entre applications
 - automatisation de formulaires administratifs
 
-→ Site : [www.datatoform.com](http://www.datatoform.com)
-→ Architecture : [Architecture technique](https://github.com/arnoweb/data-to-form/document-architecture.html)
+- Site : [www.datatoform.com](http://www.datatoform.com)
+- Architecture : [Architecture technique](https://github.com/arnoweb/data-to-form/document-architecture.html)
 
 ---
 
@@ -94,9 +94,9 @@ E-commerce · médias · streaming · marketplaces · retail · plateformes de c
 - personnalisation de la page d'accueil
 - recommandations de contenus (VOD, musique, ebooks, presse)
 
-→ Code : [github.com/arnoweb/recsys-spotlight-pytorch-fastapi](https://github.com/arnoweb/recsys-spotlight-pytorch-fastapi)
-→ Démo API : [likyly.com/recsys-api/docs](https://likyly.com/recsys-api/docs)
-→ Architecture : [Architecture technique](https://github.com/arnoweb/recsys-spotlight-pytorch-fastapi/document-architecture.html)
+- Démo API : [likyly.com/recsys-api/docs](https://likyly.com/recsys-api/docs)
+- Architecture : [Architecture technique](https://github.com/arnoweb/recsys-spotlight-pytorch-fastapi/document-architecture.html)
+- Code : [github.com/arnoweb/recsys-spotlight-pytorch-fastapi](https://github.com/arnoweb/recsys-spotlight-pytorch-fastapi)
 
 ---
 
@@ -127,10 +127,10 @@ Service client · support technique · éditeurs logiciels · industrie · banqu
 - base de connaissances
 - chatbot métier sécurisé
 
-→ Code : [github.com/arnoweb/ai_finetunedmodel_faq_multilingue](https://github.com/arnoweb/ai_finetunedmodel_faq_multilingue)
-→ Démo RAG : [arnoweb-rag-llm-faq-finetuned-huggingface.streamlit.app](https://arnoweb-rag-llm-faq-finetuned-huggingface.streamlit.app)
-→ Comparatif base vs fine-tuné : [arnoweb-rag-faq-compare-basevsfinetuned-huggingface.streamlit.app](https://arnoweb-rag-faq-compare-basevsfinetuned-huggingface.streamlit.app)
-→ Architecture : [Architecture technique](https://github.com/arnoweb/ai_finetunedmodel_faq_multilingue/document-architecture.html)
+- Démo RAG : [arnoweb-rag-llm-faq-finetuned-huggingface.streamlit.app](https://arnoweb-rag-llm-faq-finetuned-huggingface.streamlit.app)
+- Comparatif base vs fine-tuné : [arnoweb-rag-faq-compare-basevsfinetuned-huggingface.streamlit.app](https://arnoweb-rag-faq-compare-basevsfinetuned-huggingface.streamlit.app)
+- Architecture : [Architecture technique](https://github.com/arnoweb/ai_finetunedmodel_faq_multilingue/document-architecture.html)
+- Code : [github.com/arnoweb/ai_finetunedmodel_faq_multilingue](https://github.com/arnoweb/ai_finetunedmodel_faq_multilingue)
 
 ---
 
@@ -160,8 +160,8 @@ Protection des logiciels et simplification de la gestion des licences via une AP
 - gestion des essais
 - limitation d'accès aux fonctionnalités Premium
 
-→ Documentation : [api.xp-flightdeck.com/licenses-api/v1/guides](https://api.xp-flightdeck.com/licenses-api/v1/guides)
-→ Architecture : [Architecture technique](https://github.com/arnoweb/licences-manager-for-softwares-api/document-architecture.html)
+- Documentation : [api.xp-flightdeck.com/licenses-api/v1/guides](https://api.xp-flightdeck.com/licenses-api/v1/guides)
+- Architecture : [Architecture technique](https://github.com/arnoweb/licences-manager-for-softwares-api/document-architecture.html)
 
 ---
 
@@ -171,8 +171,8 @@ Protection des logiciels et simplification de la gestion des licences via une AP
 
 | Projet | Description | Stack | Lien |
 |---|---|---|---|
-| XPlane-MCP-AI-Connector | Connecteur open-source basé sur le Model Context Protocol reliant le simulateur X-Plane 12 à n'importe quel LLM local, pour un pilotage en langage naturel en temps réel. | `MCP` `IA Agentique` `LLM` | [Code](https://github.com/arnoweb/XPlane-MCP-AI-Connector) · [Architecture technique](https://github.com/arnoweb/XPlane-MCP-AI-Connector/document-architecture.html) |
-| Architecture Web universelle sans API | Architecture full-stack unifiée supprimant la duplication de la logique métier entre back et front, tout en conservant les gains de performance et de SEO du rendu serveur. | `Laravel 12` `Inertia.js` `React SSR` | [Code](https://github.com/arnoweb/kitstarter-laravel-ssr-noapi) · [Architecture technique](https://github.com/arnoweb/kitstarter-laravel-ssr-noapi/document-architecture.html) |
+| XPlane-MCP-AI-Connector | Connecteur open-source basé sur le Model Context Protocol reliant le simulateur X-Plane 12 à n'importe quel LLM local, pour un pilotage en langage naturel en temps réel. | `MCP` `IA Agentique` `LLM` | [Architecture technique](https://github.com/arnoweb/XPlane-MCP-AI-Connector/document-architecture.html)<br>[Code](https://github.com/arnoweb/XPlane-MCP-AI-Connector) |
+| Architecture Web universelle sans API | Architecture full-stack unifiée supprimant la duplication de la logique métier entre back et front, tout en conservant les gains de performance et de SEO du rendu serveur. | `Laravel 12` `Inertia.js` `React SSR` | [Architecture technique](https://github.com/arnoweb/kitstarter-laravel-ssr-noapi/document-architecture.html)<br>[Code](https://github.com/arnoweb/kitstarter-laravel-ssr-noapi) |
 | Golf & Performance | Étude des facteurs de performance au golf par corrélations statistiques et Machine Learning (projet antérieur). | `Python` `Machine Learning` `Data Analysis` | — |
 | machine-learning-linearreg-kneighbours-kfold | Régression linéaire, k-NN, validation croisée (k-fold) sur données Airbnb. | `Python` `Scikit-learn` | [Code](https://github.com/arnoweb/machine-learning-linearreg-kneighbours-kfold) |
 | googlecoral | Scripts d'inférence ML embarquée sur Coral Dev Board (Edge TPU). | `Python` `Edge AI` | [Code](https://github.com/arnoweb/googlecoral) |
@@ -187,7 +187,7 @@ Protection des logiciels et simplification de la gestion des licences via une AP
 RAG · fine-tuning LLM · systèmes de recommandation · agents IA
 
 **2018–2025 — Directeur de projet technique digital, Mazarine**
-Direction technique & MOE multi-comptes · Opéra national de Paris (800 k€/an) · Accor-Thalassa (500 k€) · Accor-LVMH (350 k€)
+Direction technique & MOE multi-comptes · Opéra national de Paris · Accor-Thalassa · Accor-LVMH
 
 **2015–2017 — Chef de projet technique digital, Mazarine**
 Sites Maisons de Luxe (Groupe OTB - Maison Margiela, Bottega Veneta)
