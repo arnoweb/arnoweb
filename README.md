@@ -1,6 +1,6 @@
 
 
-<div align="center">
+<div align="left">
 
 <img src="https://img.shields.io/badge/Architecture%20SI-2C3E50?style=for-the-badge&logo=diagrams.net&logoColor=white" />
 <img src="https://img.shields.io/badge/Web%20%26%20Plateformes-3498DB?style=for-the-badge&logo=googlechrome&logoColor=white" />
