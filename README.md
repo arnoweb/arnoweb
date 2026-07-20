@@ -22,7 +22,7 @@
 └──────────────────────────────────────────────────────────────────────────┘
 ```
 
-📍 Paris / Puteaux · 🔗 [linkedin.com/in/bretonarnaud](https://www.linkedin.com/in/bretonarnaud)
+📍 Paris / Puteaux · 🔗 <a href="https://www.linkedin.com/in/bretonarnaud" target="_blank" rel="noopener noreferrer">linkedin.com/in/bretonarnaud</a>
 
 J'accompagne les entreprises dans la conception et l'évolution de leurs plateformes numériques en combinant architecture SI, développement web, intelligence artificielle et automatisation.
 
@@ -62,8 +62,8 @@ PME · ETI · grands comptes · agences digitales · e-commerce · éditeurs Saa
 - migration de données entre applications
 - automatisation de formulaires administratifs
 
-→ Site : [www.datatoform.com](http://www.datatoform.com)  
-→ Architecture : [Architecture technique](https://github.com/arnoweb/data-to-form/document-architecture.html)
+→ Site : <a href="http://www.datatoform.com" target="_blank" rel="noopener noreferrer">www.datatoform.com</a>  
+→ Architecture : <a href="https://github.com/arnoweb/data-to-form/blob/main/architecture.html" target="_blank" rel="noopener noreferrer">Architecture technique</a>
 
 ---
 
@@ -94,9 +94,9 @@ E-commerce · médias · streaming · marketplaces · retail · plateformes de c
 - personnalisation de la page d'accueil
 - recommandations de contenus (VOD, musique, ebooks, presse)
 
-→ Démo API : [likyly.com/recsys-api/docs](https://likyly.com/recsys-api/docs)  
-→ Architecture : [Architecture technique](https://github.com/arnoweb/recsys-spotlight-pytorch-fastapi/document-architecture.html)  
-→ Code : [github.com/arnoweb/recsys-spotlight-pytorch-fastapi](https://github.com/arnoweb/recsys-spotlight-pytorch-fastapi)
+→ Démo API : <a href="https://likyly.com/recsys-api/docs" target="_blank" rel="noopener noreferrer">likyly.com/recsys-api/docs</a>  
+→ Architecture : <a href="https://github.com/arnoweb/recsys-spotlight-pytorch-fastapi/document-architecture.html" target="_blank" rel="noopener noreferrer">Architecture technique</a>  
+→ Code : <a href="https://github.com/arnoweb/recsys-spotlight-pytorch-fastapi" target="_blank" rel="noopener noreferrer">github.com/arnoweb/recsys-spotlight-pytorch-fastapi</a>
 
 ---
 
@@ -127,10 +127,10 @@ Service client · support technique · éditeurs logiciels · industrie · banqu
 - base de connaissances
 - chatbot métier sécurisé
 
-→ Démo RAG : [arnoweb-rag-llm-faq-finetuned-huggingface.streamlit.app](https://arnoweb-rag-llm-faq-finetuned-huggingface.streamlit.app)  
-→ Comparatif base vs fine-tuné : [arnoweb-rag-faq-compare-basevsfinetuned-huggingface.streamlit.app](https://arnoweb-rag-faq-compare-basevsfinetuned-huggingface.streamlit.app)  
-→ Architecture : [Architecture technique](https://github.com/arnoweb/ai_finetunedmodel_faq_multilingue/document-architecture.html)  
-→ Code : [github.com/arnoweb/ai_finetunedmodel_faq_multilingue](https://github.com/arnoweb/ai_finetunedmodel_faq_multilingue)
+→ Démo RAG : <a href="https://arnoweb-rag-llm-faq-finetuned-huggingface.streamlit.app" target="_blank" rel="noopener noreferrer">arnoweb-rag-llm-faq-finetuned-huggingface.streamlit.app</a>  
+→ Comparatif base vs fine-tuné : <a href="https://arnoweb-rag-faq-compare-basevsfinetuned-huggingface.streamlit.app" target="_blank" rel="noopener noreferrer">arnoweb-rag-faq-compare-basevsfinetuned-huggingface.streamlit.app</a>  
+→ Architecture : <a href="https://github.com/arnoweb/ai_finetunedmodel_faq_multilingue/document-architecture.html" target="_blank" rel="noopener noreferrer">Architecture technique</a>  
+→ Code : <a href="https://github.com/arnoweb/ai_finetunedmodel_faq_multilingue" target="_blank" rel="noopener noreferrer">github.com/arnoweb/ai_finetunedmodel_faq_multilingue</a>
 
 ---
 
@@ -160,8 +160,8 @@ Protection des logiciels et simplification de la gestion des licences via une AP
 - gestion des essais
 - limitation d'accès aux fonctionnalités Premium
 
-→ Documentation : [api.xp-flightdeck.com/licenses-api/v1/guides](https://api.xp-flightdeck.com/licenses-api/v1/guides)  
-→ Architecture : [Architecture technique](https://github.com/arnoweb/licences-manager-for-softwares-api/document-architecture.html)
+→ Documentation : <a href="https://api.xp-flightdeck.com/licenses-api/v1/guides" target="_blank" rel="noopener noreferrer">api.xp-flightdeck.com/licenses-api/v1/guides</a>  
+→ Architecture : <a href="https://github.com/arnoweb/licences-manager-for-softwares-api/blob/main/licences-manager-architecture.html" target="_blank" rel="noopener noreferrer">Architecture technique</a>
 
 ---
 
@@ -171,11 +171,11 @@ Protection des logiciels et simplification de la gestion des licences via une AP
 
 | Projet | Description | Stack | Lien |
 |---|---|---|---|
-| XPlane-MCP-AI-Connector | Connecteur open-source basé sur le Model Context Protocol reliant le simulateur X-Plane 12 à n'importe quel LLM local, pour un pilotage en langage naturel en temps réel. | <img src="https://img.shields.io/badge/IA%20Agentique-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/MCP-555?style=flat-square"/> <img src="https://img.shields.io/badge/LLM-555?style=flat-square"/> | [Architecture technique](https://github.com/arnoweb/XPlane-MCP-AI-Connector/document-architecture.html)<br>[Code](https://github.com/arnoweb/XPlane-MCP-AI-Connector) |
-| Architecture Web universelle sans API | Architecture full-stack unifiée supprimant la duplication de la logique métier entre back et front, tout en conservant les gains de performance et de SEO du rendu serveur. | <img src="https://img.shields.io/badge/Architecture%20Web-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Laravel%2012-555?style=flat-square"/> <img src="https://img.shields.io/badge/React%20SSR-555?style=flat-square"/> | [Architecture technique](https://github.com/arnoweb/kitstarter-laravel-ssr-noapi/document-architecture.html)<br>[Code](https://github.com/arnoweb/kitstarter-laravel-ssr-noapi) |
+| XPlane-MCP-AI-Connector | Connecteur open-source basé sur le Model Context Protocol reliant le simulateur X-Plane 12 à n'importe quel LLM local, pour un pilotage en langage naturel en temps réel. | <img src="https://img.shields.io/badge/IA%20Agentique-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/MCP-555?style=flat-square"/> <img src="https://img.shields.io/badge/LLM-555?style=flat-square"/> | <a href="https://github.com/arnoweb/XPlane-MCP-AI-Connector/document-architecture.html" target="_blank" rel="noopener noreferrer">Architecture technique</a><br><a href="https://github.com/arnoweb/XPlane-MCP-AI-Connector" target="_blank" rel="noopener noreferrer">Code</a> |
+| Architecture Web universelle sans API | Architecture full-stack unifiée supprimant la duplication de la logique métier entre back et front, tout en conservant les gains de performance et de SEO du rendu serveur. | <img src="https://img.shields.io/badge/Architecture%20Web-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Laravel%2012-555?style=flat-square"/> <img src="https://img.shields.io/badge/React%20SSR-555?style=flat-square"/> | <a href="https://github.com/arnoweb/kitstarter-laravel-ssr-noapi/document-architecture.html" target="_blank" rel="noopener noreferrer">Architecture technique</a><br><a href="https://github.com/arnoweb/kitstarter-laravel-ssr-noapi" target="_blank" rel="noopener noreferrer">Code</a> |
 | Golf & Performance | Étude des facteurs de performance au golf par corrélations statistiques et Machine Learning (projet antérieur). | <img src="https://img.shields.io/badge/Data%20Science-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/Machine%20Learning-555?style=flat-square"/> | — |
-| machine-learning-linearreg-kneighbours-kfold | Régression linéaire, k-NN, validation croisée (k-fold) sur données Airbnb. | <img src="https://img.shields.io/badge/Machine%20Learning-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/Scikit--learn-555?style=flat-square"/> | [Code](https://github.com/arnoweb/machine-learning-linearreg-kneighbours-kfold) |
-| googlecoral | Scripts d'inférence ML embarquée sur Coral Dev Board (Edge TPU). | <img src="https://img.shields.io/badge/Edge%20AI-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> | [Code](https://github.com/arnoweb/googlecoral) |
+| machine-learning-linearreg-kneighbours-kfold | Régression linéaire, k-NN, validation croisée (k-fold) sur données Airbnb. | <img src="https://img.shields.io/badge/Machine%20Learning-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/Scikit--learn-555?style=flat-square"/> | <a href="https://github.com/arnoweb/machine-learning-linearreg-kneighbours-kfold" target="_blank" rel="noopener noreferrer">Code</a> |
+| googlecoral | Scripts d'inférence ML embarquée sur Coral Dev Board (Edge TPU). | <img src="https://img.shields.io/badge/Edge%20AI-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> | <a href="https://github.com/arnoweb/googlecoral" target="_blank" rel="noopener noreferrer">Code</a> |
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
