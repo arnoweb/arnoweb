@@ -40,7 +40,7 @@ Ma conviction : l'IA crée de la valeur lorsqu'elle s'intègre naturellement au 
 
 ### 01 - DataToForm - Automatisation intelligente des processus de contribution
 
-<img src="https://img.shields.io/badge/BtoB-3498DB?style=flat-square"/> <img src="https://img.shields.io/badge/BtoC-3498DB?style=flat-square"/> <img src="https://img.shields.io/badge/Node.js-555?style=flat-square"/> <img src="https://img.shields.io/badge/Playwright-555?style=flat-square"/> <img src="https://img.shields.io/badge/Excel-555?style=flat-square"/>
+<img src="https://img.shields.io/badge/BtoB-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/BtoC-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Node.js-555?style=flat-square"/> <img src="https://img.shields.io/badge/Playwright-555?style=flat-square"/> <img src="https://img.shields.io/badge/Excel-555?style=flat-square"/>
 
 DataToForm transforme les interfaces métier en parcours de saisie intelligents. À partir d’un fichier Excel, la solution identifie automatiquement les champs, établit le mapping avec le formulaire cible et automatise la saisie dans des environnements web complexes.
 
@@ -71,7 +71,7 @@ PME · ETI · grands comptes · agences digitales · e-commerce · éditeurs Saa
 
 ### 02 - Moteur IA de recommandation de produits temps réel (RecSys)
 
-<img src="https://img.shields.io/badge/IA-3498DB?style=flat-square"/> <img src="https://img.shields.io/badge/Recommandation-3498DB?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/PyTorch-555?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-555?style=flat-square"/>
+<img src="https://img.shields.io/badge/IA-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Recommandation-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/PyTorch-555?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-555?style=flat-square"/>
 
 Conception d’un moteur de recommandation combinant filtrage collaboratif et approche item-based afin de proposer des suggestions personnalisées en temps réel.
 
@@ -104,7 +104,7 @@ E-commerce · médias · streaming · marketplaces · retail · plateformes de c
 
 ### 03 - Moteur de recherche FAQ intelligent (RAG & fine-tuning LLM)
 
-<img src="https://img.shields.io/badge/IA-3498DB?style=flat-square"/> <img src="https://img.shields.io/badge/Multilingue-3498DB?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-555?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/Hugging%20Face-555?style=flat-square"/>
+<img src="https://img.shields.io/badge/IA-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Multilingue-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-555?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/Hugging%20Face-555?style=flat-square"/>
 
 Développement d’un moteur de recherche sémantique capable d’interroger une base documentaire multilingue et de générer des réponses contextualisées grâce à une architecture RAG.
 
@@ -138,7 +138,7 @@ Service client · support technique · éditeurs logiciels · industrie · banqu
 
 ### 04 - Système de gestion de licences
 
-<img src="https://img.shields.io/badge/SaaS-3498DB?style=flat-square"/> <img src="https://img.shields.io/badge/S%C3%A9curit%C3%A9-3498DB?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-555?style=flat-square"/> <img src="https://img.shields.io/badge/API%20REST-555?style=flat-square"/>
+<img src="https://img.shields.io/badge/SaaS-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/S%C3%A9curit%C3%A9-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-555?style=flat-square"/> <img src="https://img.shields.io/badge/API%20REST-555?style=flat-square"/>
 
 Conception d’un système générique de gestion de licences couvrant l’ensemble du cycle de vie : création, attribution, validation, renouvellement et révocation.
 
@@ -171,11 +171,11 @@ Protection des logiciels et simplification de la gestion des licences via une AP
 
 | Projet | Description | Stack | Lien |
 |---|---|---|---|
-| XPlane-MCP-AI-Connector | Connecteur open-source basé sur le Model Context Protocol reliant le simulateur X-Plane 12 à n'importe quel LLM local, pour un pilotage en langage naturel en temps réel. | <img src="https://img.shields.io/badge/IA%20Agentique-3498DB?style=flat-square"/> <img src="https://img.shields.io/badge/MCP-555?style=flat-square"/> <img src="https://img.shields.io/badge/LLM-555?style=flat-square"/> | [Architecture technique](https://github.com/arnoweb/XPlane-MCP-AI-Connector/document-architecture.html)<br>[Code](https://github.com/arnoweb/XPlane-MCP-AI-Connector) |
-| Architecture Web universelle sans API | Architecture full-stack unifiée supprimant la duplication de la logique métier entre back et front, tout en conservant les gains de performance et de SEO du rendu serveur. | <img src="https://img.shields.io/badge/Architecture%20Web-3498DB?style=flat-square"/> <img src="https://img.shields.io/badge/Laravel%2012-555?style=flat-square"/> <img src="https://img.shields.io/badge/React%20SSR-555?style=flat-square"/> | [Architecture technique](https://github.com/arnoweb/kitstarter-laravel-ssr-noapi/document-architecture.html)<br>[Code](https://github.com/arnoweb/kitstarter-laravel-ssr-noapi) |
-| Golf & Performance | Étude des facteurs de performance au golf par corrélations statistiques et Machine Learning (projet antérieur). | <img src="https://img.shields.io/badge/Data%20Science-3498DB?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/Machine%20Learning-555?style=flat-square"/> | — |
-| machine-learning-linearreg-kneighbours-kfold | Régression linéaire, k-NN, validation croisée (k-fold) sur données Airbnb. | <img src="https://img.shields.io/badge/Machine%20Learning-3498DB?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/Scikit--learn-555?style=flat-square"/> | [Code](https://github.com/arnoweb/machine-learning-linearreg-kneighbours-kfold) |
-| googlecoral | Scripts d'inférence ML embarquée sur Coral Dev Board (Edge TPU). | <img src="https://img.shields.io/badge/Edge%20AI-3498DB?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> | [Code](https://github.com/arnoweb/googlecoral) |
+| XPlane-MCP-AI-Connector | Connecteur open-source basé sur le Model Context Protocol reliant le simulateur X-Plane 12 à n'importe quel LLM local, pour un pilotage en langage naturel en temps réel. | <img src="https://img.shields.io/badge/IA%20Agentique-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/MCP-555?style=flat-square"/> <img src="https://img.shields.io/badge/LLM-555?style=flat-square"/> | [Architecture technique](https://github.com/arnoweb/XPlane-MCP-AI-Connector/document-architecture.html)<br>[Code](https://github.com/arnoweb/XPlane-MCP-AI-Connector) |
+| Architecture Web universelle sans API | Architecture full-stack unifiée supprimant la duplication de la logique métier entre back et front, tout en conservant les gains de performance et de SEO du rendu serveur. | <img src="https://img.shields.io/badge/Architecture%20Web-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Laravel%2012-555?style=flat-square"/> <img src="https://img.shields.io/badge/React%20SSR-555?style=flat-square"/> | [Architecture technique](https://github.com/arnoweb/kitstarter-laravel-ssr-noapi/document-architecture.html)<br>[Code](https://github.com/arnoweb/kitstarter-laravel-ssr-noapi) |
+| Golf & Performance | Étude des facteurs de performance au golf par corrélations statistiques et Machine Learning (projet antérieur). | <img src="https://img.shields.io/badge/Data%20Science-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/Machine%20Learning-555?style=flat-square"/> | — |
+| machine-learning-linearreg-kneighbours-kfold | Régression linéaire, k-NN, validation croisée (k-fold) sur données Airbnb. | <img src="https://img.shields.io/badge/Machine%20Learning-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/Scikit--learn-555?style=flat-square"/> | [Code](https://github.com/arnoweb/machine-learning-linearreg-kneighbours-kfold) |
+| googlecoral | Scripts d'inférence ML embarquée sur Coral Dev Board (Edge TPU). | <img src="https://img.shields.io/badge/Edge%20AI-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> | [Code](https://github.com/arnoweb/googlecoral) |
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
