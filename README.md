@@ -40,7 +40,8 @@ Ma conviction : l'IA crée de la valeur lorsqu'elle s'intègre naturellement au 
 
 ### 01 - DataToForm - Automatisation intelligente des processus de contribution
 
-<img src="https://img.shields.io/badge/BtoB-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/BtoC-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Node.js-555?style=flat-square"/> <img src="https://img.shields.io/badge/Playwright-555?style=flat-square"/> <img src="https://img.shields.io/badge/Excel-555?style=flat-square"/>
+<img src="https://img.shields.io/badge/BtoB-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/BtoC-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Node.js-555?style=flat-square"/> <img src="https://img.shields.io/badge/Playwright-555?style=flat-square"/> <img src="https://img.shields.io/badge/Chromium-555?style=flat-square"/> <img src="https://img.shields.io/badge/CDP-555?style=flat-square"/> <img src="https://img.shields.io/badge/WebSocket-555?style=flat-square"/> <img src="https://img.shields.io/badge/Excel-555?style=flat-square"/> <img src="https://img.shields.io/badge/LLM-555?style=flat-square"/> <img src="https://img.shields.io/badge/ONNX-555?style=flat-square"/> <img src="https://img.shields.io/badge/SQLite-555?style=flat-square"/> <img src="https://img.shields.io/badge/REST%20API-555?style=flat-square"/>
+
 
 DataToForm transforme les interfaces métier en parcours de saisie intelligents. À partir d’un fichier Excel, la solution identifie automatiquement les champs, établit le mapping avec le formulaire cible et automatise la saisie dans des environnements web complexes.
 
