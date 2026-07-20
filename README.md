@@ -24,11 +24,11 @@
 
 📍 Paris / Puteaux · 🔗 [linkedin.com/in/bretonarnaud](https://www.linkedin.com/in/bretonarnaud)
 
-J'aide les entreprises à concevoir et faire évoluer leurs plateformes numériques en combinant architecture web, intelligence artificielle et automatisation des processus. Mon expertise couvre l'ensemble du cycle de vie d'un produit, depuis l'architecture fonctionnelle et technique jusqu'à sa mise en production, en passant par l'intégration des systèmes, la qualité logicielle et la gouvernance des données.
+J'accompagne les entreprises dans la conception et l'évolution de leurs plateformes numériques en combinant architecture SI, développement web, intelligence artificielle et automatisation.
 
-Fort d'une solide expérience dans la réalisation de projets digitaux complexes, j'accompagne désormais les organisations dans l'adoption de l'IA Générative : assistants métiers, moteurs RAG, agents IA, systèmes de recommandation, automatisation documentaire et workflows intelligents, déployés dans des environnements sécurisés et maîtrisés.
+Fort d'une expérience dans la réalisation de projets digitaux complexes, je conçois des solutions intégrant IA générative, RAG, agents IA, systèmes de recommandation et workflows intelligents, de l'architecture jusqu'à la mise en production.
 
-Ma conviction est que l'IA n'a de valeur que lorsqu'elle s'intègre naturellement au système d'information. C'est pourquoi je conçois des solutions où architecture, données, automatisation et IA fonctionnent comme un ensemble cohérent, fiable et évolutif.
+Ma conviction : l'IA crée de la valeur lorsqu'elle s'intègre naturellement au système d'information pour rendre les processus plus intelligents, fiables et évolutifs.
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
