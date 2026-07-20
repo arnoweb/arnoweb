@@ -42,6 +42,7 @@ Ma conviction : l'IA crée de la valeur lorsqu'elle s'intègre naturellement au 
 
 <img src="https://img.shields.io/badge/BtoB-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/BtoC-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Node.js-555?style=flat-square"/> <img src="https://img.shields.io/badge/Playwright-555?style=flat-square"/> <img src="https://img.shields.io/badge/Chromium-555?style=flat-square"/> <img src="https://img.shields.io/badge/CDP-555?style=flat-square"/> <img src="https://img.shields.io/badge/WebSocket-555?style=flat-square"/> <img src="https://img.shields.io/badge/Excel-555?style=flat-square"/> <img src="https://img.shields.io/badge/LLM-555?style=flat-square"/> <img src="https://img.shields.io/badge/ONNX-555?style=flat-square"/> <img src="https://img.shields.io/badge/SQLite-555?style=flat-square"/> <img src="https://img.shields.io/badge/REST%20API-555?style=flat-square"/>
 
+<img src="assets/screenshots/datatoform.png" alt="Aperçu DataToForm" width="800"/>
 
 DataToForm transforme les interfaces métier en parcours de saisie intelligents. À partir d’un fichier Excel, la solution identifie automatiquement les champs, établit le mapping avec le formulaire cible et automatise la saisie dans des environnements web complexes.
 
@@ -73,6 +74,8 @@ PME · ETI · grands comptes · agences digitales · e-commerce · éditeurs Saa
 ### 02 - Moteur IA de recommandation de produits temps réel (RecSys)
 
 <img src="https://img.shields.io/badge/IA-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Recommandation-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/PyTorch-555?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-555?style=flat-square"/>
+
+*Screenshot à venir*
 
 Conception d’un moteur de recommandation combinant filtrage collaboratif et approche item-based afin de proposer des suggestions personnalisées en temps réel.
 
@@ -107,6 +110,8 @@ E-commerce · médias · streaming · marketplaces · retail · plateformes de c
 
 <img src="https://img.shields.io/badge/IA-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Multilingue-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-555?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/Hugging%20Face-555?style=flat-square"/>
 
+*Screenshot à venir*
+
 Développement d’un moteur de recherche sémantique capable d’interroger une base documentaire multilingue et de générer des réponses contextualisées grâce à une architecture RAG.
 
 Le projet compare les performances d’un modèle d’embeddings de base à une version fine-tunée avec Hugging Face AutoTrain, avec suivi de métriques de qualité telles que MRR et Recall@K. Les réponses sont produites par un LLM local afin de garantir confidentialité et maîtrise des traitements.
@@ -140,6 +145,8 @@ Service client · support technique · éditeurs logiciels · industrie · banqu
 ### 04 - Système de gestion de licences
 
 <img src="https://img.shields.io/badge/SaaS-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/S%C3%A9curit%C3%A9-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-555?style=flat-square"/> <img src="https://img.shields.io/badge/API%20REST-555?style=flat-square"/>
+
+*Screenshot à venir*
 
 Conception d’un système générique de gestion de licences couvrant l’ensemble du cycle de vie : création, attribution, validation, renouvellement et révocation.
 
