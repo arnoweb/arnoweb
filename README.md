@@ -19,10 +19,10 @@
 │  Transformation numérique · Architecture SI · Intelligence Artificielle  │
 │                                                                          │
 │  Web · Data · Automatisation · LLM · Machine Learning · Agents IA        │
-│                                                                          │
-│  📍 Paris / Puteaux  ·  🔗 linkedin.com/in/bretonarnaud                   │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
+
+📍 Paris / Puteaux · 🔗 [linkedin.com/in/bretonarnaud](https://www.linkedin.com/in/bretonarnaud)
 
 J'aide les entreprises à concevoir et faire évoluer leurs plateformes numériques en combinant architecture web, intelligence artificielle et automatisation des processus. Mon expertise couvre l'ensemble du cycle de vie d'un produit, depuis l'architecture fonctionnelle et technique jusqu'à sa mise en production, en passant par l'intégration des systèmes, la qualité logicielle et la gouvernance des données.
 
@@ -40,7 +40,7 @@ Ma conviction est que l'IA n'a de valeur que lorsqu'elle s'intègre naturellemen
 
 ### 01 - DataToForm - Automatisation intelligente des processus de contribution
 
-`BtoB` `BtoC` `Excel` `IA` `Automatisation`
+<img src="https://img.shields.io/badge/BtoB-555?style=flat-square"/> <img src="https://img.shields.io/badge/BtoC-555?style=flat-square"/> <img src="https://img.shields.io/badge/IA-555?style=flat-square"/> <img src="https://img.shields.io/badge/Automatisation-555?style=flat-square"/> <img src="https://img.shields.io/badge/Excel-555?style=flat-square"/>
 
 DataToForm transforme les interfaces métier en parcours de saisie intelligents. À partir d’un fichier Excel, la solution identifie automatiquement les champs, établit le mapping avec le formulaire cible et automatise la saisie dans des environnements web complexes.
 
@@ -62,8 +62,8 @@ PME · ETI · grands comptes · agences digitales · e-commerce · éditeurs Saa
 - migration de données entre applications
 - automatisation de formulaires administratifs
 
-- Site : [www.datatoform.com](http://www.datatoform.com)
-- Architecture : [Architecture technique](https://github.com/arnoweb/data-to-form/document-architecture.html)
+→ Site : [www.datatoform.com](http://www.datatoform.com)  
+→ Architecture : [Architecture technique](https://github.com/arnoweb/data-to-form/document-architecture.html)
 
 ---
 
@@ -71,7 +71,7 @@ PME · ETI · grands comptes · agences digitales · e-commerce · éditeurs Saa
 
 ### 02 - Moteur IA de recommandation de produits temps réel (RecSys)
 
-`Python` `PyTorch` `Spotlight` `FastAPI` `Pinecone` `DVC`
+<img src="https://img.shields.io/badge/IA-555?style=flat-square"/> <img src="https://img.shields.io/badge/Recommandation-555?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/PyTorch-555?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-555?style=flat-square"/>
 
 Conception d’un moteur de recommandation combinant filtrage collaboratif et approche item-based afin de proposer des suggestions personnalisées en temps réel.
 
@@ -94,9 +94,9 @@ E-commerce · médias · streaming · marketplaces · retail · plateformes de c
 - personnalisation de la page d'accueil
 - recommandations de contenus (VOD, musique, ebooks, presse)
 
-- Démo API : [likyly.com/recsys-api/docs](https://likyly.com/recsys-api/docs)
-- Architecture : [Architecture technique](https://github.com/arnoweb/recsys-spotlight-pytorch-fastapi/document-architecture.html)
-- Code : [github.com/arnoweb/recsys-spotlight-pytorch-fastapi](https://github.com/arnoweb/recsys-spotlight-pytorch-fastapi)
+→ Démo API : [likyly.com/recsys-api/docs](https://likyly.com/recsys-api/docs)  
+→ Architecture : [Architecture technique](https://github.com/arnoweb/recsys-spotlight-pytorch-fastapi/document-architecture.html)  
+→ Code : [github.com/arnoweb/recsys-spotlight-pytorch-fastapi](https://github.com/arnoweb/recsys-spotlight-pytorch-fastapi)
 
 ---
 
@@ -104,7 +104,7 @@ E-commerce · médias · streaming · marketplaces · retail · plateformes de c
 
 ### 03 - Moteur de recherche FAQ intelligent (RAG & fine-tuning LLM)
 
-`Python` `Streamlit` `Hugging Face` `Sentence-Transformers` `RAG`
+<img src="https://img.shields.io/badge/IA-555?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-555?style=flat-square"/> <img src="https://img.shields.io/badge/Multilingue-555?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/Hugging%20Face-555?style=flat-square"/>
 
 Développement d’un moteur de recherche sémantique capable d’interroger une base documentaire multilingue et de générer des réponses contextualisées grâce à une architecture RAG.
 
@@ -127,10 +127,10 @@ Service client · support technique · éditeurs logiciels · industrie · banqu
 - base de connaissances
 - chatbot métier sécurisé
 
-- Démo RAG : [arnoweb-rag-llm-faq-finetuned-huggingface.streamlit.app](https://arnoweb-rag-llm-faq-finetuned-huggingface.streamlit.app)
-- Comparatif base vs fine-tuné : [arnoweb-rag-faq-compare-basevsfinetuned-huggingface.streamlit.app](https://arnoweb-rag-faq-compare-basevsfinetuned-huggingface.streamlit.app)
-- Architecture : [Architecture technique](https://github.com/arnoweb/ai_finetunedmodel_faq_multilingue/document-architecture.html)
-- Code : [github.com/arnoweb/ai_finetunedmodel_faq_multilingue](https://github.com/arnoweb/ai_finetunedmodel_faq_multilingue)
+→ Démo RAG : [arnoweb-rag-llm-faq-finetuned-huggingface.streamlit.app](https://arnoweb-rag-llm-faq-finetuned-huggingface.streamlit.app)  
+→ Comparatif base vs fine-tuné : [arnoweb-rag-faq-compare-basevsfinetuned-huggingface.streamlit.app](https://arnoweb-rag-faq-compare-basevsfinetuned-huggingface.streamlit.app)  
+→ Architecture : [Architecture technique](https://github.com/arnoweb/ai_finetunedmodel_faq_multilingue/document-architecture.html)  
+→ Code : [github.com/arnoweb/ai_finetunedmodel_faq_multilingue](https://github.com/arnoweb/ai_finetunedmodel_faq_multilingue)
 
 ---
 
@@ -138,7 +138,7 @@ Service client · support technique · éditeurs logiciels · industrie · banqu
 
 ### 04 - Système de gestion de licences
 
-`Python` `FastAPI` `API REST`
+<img src="https://img.shields.io/badge/SaaS-555?style=flat-square"/> <img src="https://img.shields.io/badge/S%C3%A9curit%C3%A9-555?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-555?style=flat-square"/> <img src="https://img.shields.io/badge/API%20REST-555?style=flat-square"/>
 
 Conception d’un système générique de gestion de licences couvrant l’ensemble du cycle de vie : création, attribution, validation, renouvellement et révocation.
 
@@ -160,8 +160,8 @@ Protection des logiciels et simplification de la gestion des licences via une AP
 - gestion des essais
 - limitation d'accès aux fonctionnalités Premium
 
-- Documentation : [api.xp-flightdeck.com/licenses-api/v1/guides](https://api.xp-flightdeck.com/licenses-api/v1/guides)
-- Architecture : [Architecture technique](https://github.com/arnoweb/licences-manager-for-softwares-api/document-architecture.html)
+→ Documentation : [api.xp-flightdeck.com/licenses-api/v1/guides](https://api.xp-flightdeck.com/licenses-api/v1/guides)  
+→ Architecture : [Architecture technique](https://github.com/arnoweb/licences-manager-for-softwares-api/document-architecture.html)
 
 ---
 
@@ -171,11 +171,11 @@ Protection des logiciels et simplification de la gestion des licences via une AP
 
 | Projet | Description | Stack | Lien |
 |---|---|---|---|
-| XPlane-MCP-AI-Connector | Connecteur open-source basé sur le Model Context Protocol reliant le simulateur X-Plane 12 à n'importe quel LLM local, pour un pilotage en langage naturel en temps réel. | `MCP` `IA Agentique` `LLM` | [Architecture technique](https://github.com/arnoweb/XPlane-MCP-AI-Connector/document-architecture.html)<br>[Code](https://github.com/arnoweb/XPlane-MCP-AI-Connector) |
-| Architecture Web universelle sans API | Architecture full-stack unifiée supprimant la duplication de la logique métier entre back et front, tout en conservant les gains de performance et de SEO du rendu serveur. | `Laravel 12` `Inertia.js` `React SSR` | [Architecture technique](https://github.com/arnoweb/kitstarter-laravel-ssr-noapi/document-architecture.html)<br>[Code](https://github.com/arnoweb/kitstarter-laravel-ssr-noapi) |
-| Golf & Performance | Étude des facteurs de performance au golf par corrélations statistiques et Machine Learning (projet antérieur). | `Python` `Machine Learning` `Data Analysis` | — |
-| machine-learning-linearreg-kneighbours-kfold | Régression linéaire, k-NN, validation croisée (k-fold) sur données Airbnb. | `Python` `Scikit-learn` | [Code](https://github.com/arnoweb/machine-learning-linearreg-kneighbours-kfold) |
-| googlecoral | Scripts d'inférence ML embarquée sur Coral Dev Board (Edge TPU). | `Python` `Edge AI` | [Code](https://github.com/arnoweb/googlecoral) |
+| XPlane-MCP-AI-Connector | Connecteur open-source basé sur le Model Context Protocol reliant le simulateur X-Plane 12 à n'importe quel LLM local, pour un pilotage en langage naturel en temps réel. | <img src="https://img.shields.io/badge/IA%20Agentique-555?style=flat-square"/> <img src="https://img.shields.io/badge/MCP-555?style=flat-square"/> <img src="https://img.shields.io/badge/LLM-555?style=flat-square"/> | [Architecture technique](https://github.com/arnoweb/XPlane-MCP-AI-Connector/document-architecture.html)<br>[Code](https://github.com/arnoweb/XPlane-MCP-AI-Connector) |
+| Architecture Web universelle sans API | Architecture full-stack unifiée supprimant la duplication de la logique métier entre back et front, tout en conservant les gains de performance et de SEO du rendu serveur. | <img src="https://img.shields.io/badge/Architecture%20Web-555?style=flat-square"/> <img src="https://img.shields.io/badge/Laravel%2012-555?style=flat-square"/> <img src="https://img.shields.io/badge/React%20SSR-555?style=flat-square"/> | [Architecture technique](https://github.com/arnoweb/kitstarter-laravel-ssr-noapi/document-architecture.html)<br>[Code](https://github.com/arnoweb/kitstarter-laravel-ssr-noapi) |
+| Golf & Performance | Étude des facteurs de performance au golf par corrélations statistiques et Machine Learning (projet antérieur). | <img src="https://img.shields.io/badge/Data%20Science-555?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/Machine%20Learning-555?style=flat-square"/> | — |
+| machine-learning-linearreg-kneighbours-kfold | Régression linéaire, k-NN, validation croisée (k-fold) sur données Airbnb. | <img src="https://img.shields.io/badge/Machine%20Learning-555?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/Scikit--learn-555?style=flat-square"/> | [Code](https://github.com/arnoweb/machine-learning-linearreg-kneighbours-kfold) |
+| googlecoral | Scripts d'inférence ML embarquée sur Coral Dev Board (Edge TPU). | <img src="https://img.shields.io/badge/Edge%20AI-555?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> | [Code](https://github.com/arnoweb/googlecoral) |
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
