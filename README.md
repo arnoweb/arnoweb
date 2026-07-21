@@ -110,7 +110,14 @@ E-commerce · médias · streaming · marketplaces · retail · plateformes de c
 
 <img src="https://img.shields.io/badge/IA-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Multilingue-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-555?style=flat-square"/> <img src="https://img.shields.io/badge/Python-555?style=flat-square"/> <img src="https://img.shields.io/badge/Hugging%20Face-555?style=flat-square"/>
 
-*Screenshot à venir*
+<div>
+    <a href="https://www.loom.com/share/1bf5e89c54e24e29840d1a3067461c83" target="_blank" rel="noopener noreferrer">
+      <p>FAQ IA Demo - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/1bf5e89c54e24e29840d1a3067461c83" target="_blank" rel="noopener noreferrer">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1bf5e89c54e24e29840d1a3067461c83-a80d465410217950-full-play.gif#t=0.1">
+    </a>
+</div>
 
 Développement d’un moteur de recherche sémantique capable d’interroger une base documentaire multilingue et de générer des réponses contextualisées grâce à une architecture RAG.
 
