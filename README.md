@@ -12,23 +12,55 @@
 
 
 
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│  DIRECTEUR TECHNIQUE DIGITAL · ARCHITECTE SOLUTIONS IA                   │
-│                                                                          │
-│  Transformation numérique · Architecture SI · Intelligence Artificielle  │
-│                                                                          │
-│  Web · Data · Automatisation · LLM · Machine Learning · Agents IA        │
-└──────────────────────────────────────────────────────────────────────────┘
-```
+# Technical Leader · AI System Builder · Agentic Developer
 
-📍 Paris / Puteaux · 🔗 <a href="https://www.linkedin.com/in/bretonarnaud" target="_blank" rel="noopener noreferrer">linkedin.com/in/bretonarnaud</a>
+<a href="https://calendly.com/a-breton-likyly/quel-est-votre-besoin-digital-ia" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Prendre%20rendez--vous-Discutons%20de%20votre%20projet-6366F1?style=for-the-badge&logo=calendly&logoColor=white" alt="Prendre rendez-vous"/></a>
 
-J'accompagne les entreprises dans la conception et l'évolution de leurs plateformes numériques en combinant architecture SI, développement web, intelligence artificielle et automatisation.
+**Freelance | Architecture SI & IA · Orchestration Humain–IA · Web & SaaS**
 
-Fort d'une expérience dans la réalisation de projets digitaux complexes, je conçois des solutions intégrant IA générative, RAG, agents IA, systèmes de recommandation et workflows intelligents, de l'architecture jusqu'à la mise en production.
+*De la stratégie à l'exécution. Des idées aux systèmes qui créent de la valeur.*
 
-Ma conviction : l'IA crée de la valeur lorsqu'elle s'intègre naturellement au système d'information pour rendre les processus plus intelligents, fiables et évolutifs.
+Paris / Puteaux · [LinkedIn](https://www.linkedin.com/in/bretonarnaud) · [Discutons de votre projet](https://calendly.com/a-breton-likyly/quel-est-votre-besoin-digital-ia)
+
+---
+
+Je suis **directeur technique et développeur freelance**, à l'intersection de l'architecture logicielle, de l'intelligence artificielle et du développement de produits digitaux.
+
+J'interviens aussi bien pour **structurer et piloter des projets technologiques** que pour **concevoir et développer des solutions opérationnelles**.
+
+Mon approche : être un **orchestrateur entre les équipes, les besoins métier et les outils IA**, tout en restant proche du code, des systèmes et de leur mise en production.
+
+### 01 — Technical Leadership & Orchestration
+
+**Aligner les personnes, les technologies et les décisions.**
+
+Conseil et architecture SI/IA, audits, choix technologiques, pilotage de projets complexes et direction technique à temps partagé.
+
+J'aide les entreprises à clarifier leurs priorités, prendre les bonnes décisions et transformer une vision technologique en résultats concrets.
+
+### 02 — AI System Builder
+
+**Construire des systèmes IA qui créent de la valeur.**
+
+Conception et intégration de solutions IA dans les processus métier : agents IA, RAG, LLM, Machine Learning, systèmes de recommandation, MCP et automatisations intelligentes.
+
+L'objectif : des systèmes fiables, utiles et intégrés à l'existant, au-delà des simples démonstrateurs.
+
+### 03 — Agentic Development | Web & SaaS
+
+**Transformer des idées en produits fonctionnels.**
+
+Conception et développement de sites web, applications métier, plateformes SaaS et API, avec une approche de développement agentique.
+
+De l'architecture au déploiement, je combine ingénierie logicielle, outils de développement assistés par IA et automatisation pour accélérer la livraison sans sacrifier la qualité.
+
+---
+
+### Construisons ensemble des solutions qui créent de la valeur
+
+Vous cherchez un regard technique senior, un partenaire pour concrétiser une idée ou un développeur capable de construire votre prochaine solution ?
+
+**[Parlons de votre projet — Réserver un échange](https://calendly.com/a-breton-likyly/quel-est-votre-besoin-digital-ia)**
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
