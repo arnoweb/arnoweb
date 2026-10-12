@@ -24,11 +24,9 @@ Paris / Puteaux · [LinkedIn](https://www.linkedin.com/in/bretonarnaud) · [Disc
 
 ---
 
-Je suis **directeur technique et développeur freelance**, à l'intersection de l'architecture logicielle, de l'intelligence artificielle et du développement de produits digitaux.
+J'accompagne les entreprises dans leurs projets technologiques, de la stratégie à la mise en production, en combinant expertise en architecture SI, intelligence artificielle et développement logiciel.
 
-J'interviens aussi bien pour **structurer et piloter des projets technologiques** que pour **concevoir et développer des solutions opérationnelles**.
-
-Mon approche : être un **orchestrateur entre les équipes, les besoins métier et les outils IA**, tout en restant proche du code, des systèmes et de leur mise en production.
+Mon approche repose sur une double capacité : orchestrer les équipes, les métiers et les technologies, tout en restant directement impliqué dans la conception et la réalisation de solutions concrètes.
 
 ### 01 — Technical Leadership & Orchestration
 
