@@ -16,7 +16,7 @@
 
 <a href="https://calendly.com/a-breton-likyly/quel-est-votre-besoin-digital-ia" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Prendre%20rendez--vous-Discutons%20de%20votre%20projet-6366F1?style=for-the-badge&logo=calendly&logoColor=white" alt="Prendre rendez-vous"/></a>
 
-**Freelance | Architecture SI & IA · Orchestration Humain–IA · Web & SaaS**
+**Freelance | Architecture SI & IA · Orchestration Humain–IA · Développement agentique Web & SaaS**
 
 *De la stratégie à l'exécution. Des idées aux systèmes qui créent de la valeur.*
 
