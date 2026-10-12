@@ -24,7 +24,7 @@ Paris / Puteaux · [LinkedIn](https://www.linkedin.com/in/bretonarnaud) · [Disc
 
 ---
 
-J'accompagne les entreprises dans leurs projets technologiques, de la stratégie à la mise en production, en combinant expertise en architecture SI, intelligence artificielle et développement logiciel.
+J'accompagne les entreprises dans leurs projets technologiques, de la stratégie à la mise en production, en combinant expertise en architecture SI, intelligence artificielle et développement web & SaaS.
 
 Mon approche repose sur une double capacité : orchestrer les équipes, les métiers et les technologies, tout en restant directement impliqué dans la conception et la réalisation de solutions concrètes.
 
@@ -50,7 +50,7 @@ L'objectif : des systèmes fiables, utiles et intégrés à l'existant, au-delà
 
 Conception et développement de sites web, applications métier, plateformes SaaS et API, avec une approche de développement agentique.
 
-De l'architecture au déploiement, je combine ingénierie logicielle, outils de développement assistés par IA et automatisation pour accélérer la livraison sans sacrifier la qualité.
+De l'architecture au déploiement, je combine ingénierie web & SaaS, outils de développement assistés par IA et automatisation pour accélérer la livraison sans sacrifier la qualité.
 
 ---
 
